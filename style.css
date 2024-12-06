@@ -1,0 +1,102 @@
+li {
+    display: inline;
+    background-color:rgb(250, 234, 234);
+    border-style:outset;
+    border-color:rgb(245, 245, 13);
+    padding: 0.5em;
+    
+  
+    
+    
+
+}
+ul{
+    margin-left: 900px;
+  
+}
+body { 
+    background-image: url(image/download\ \(3\).jfif);
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    font-family: roboto;
+   
+
+}
+a{
+    color:rgb(6, 6, 121);
+    text-decoration: none;
+    cursor:pointer;
+   
+}
+
+    
+
+h2{ color:rgb(206, 206, 83);
+    text-align: center;
+    
+
+}
+h2:hover{
+    color:bisque;
+}
+a:hover{
+    color: orangered;
+}
+h2{
+    padding: 1em 0;
+    font-size:xx-large;
+    word-spacing: 4px;
+    font-size: 50px;
+
+}
+#x{
+    background: linear-gradient(45deg, #6a11cb, #f1dd22);
+   width: 900px;
+}
+.partie {padding: 2px;
+
+}
+h3{
+    color:rgb(151, 47, 95);
+    font-weight:900;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   text-decoration-line: underline;
+}
+h2{
+    text-align: center;
+}
+section{  padding: 2em;
+    text-align: center;
+
+}
+.footer{ padding: 2em;
+    text-align: center;
+    color: #675c72;
+
+}
+p{
+    background: #f3f8a5;
+    margin: 1em auto;
+    padding: 1em;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(104, 79, 146, 0.534);
+    max-width: 600px;
+    color: rgb(58, 9, 104);
+}
+div{
+    text-align: center;  
+}
+button{
+border: 5px solid rgb(71, 13, 71);
+display: block;
+margin-left: 630px;
+border-radius: 8px;
+padding: 4px 20px 4px 20px;
+}
