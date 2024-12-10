@@ -100,3 +100,24 @@ margin-left: 630px;
 border-radius: 8px;
 padding: 4px 20px 4px 20px;
 }
+#email{padding: 20px;
+    background-color:#f3f8a5;
+    border: 5px solid #c4ec10;
+
+}
+#name{padding: 20px;
+    background-color:#f3f8a5;
+  border:5px solid #c4ec10;
+
+}
+#message{padding: 100px;
+    margin-left: 40px;
+    margin-top: 30px;
+    background-color:#f3f8a5;
+    border: 5px solid #c4ec10;
+
+}
+img {
+    width:50px;
+    height: 30px;
+}
